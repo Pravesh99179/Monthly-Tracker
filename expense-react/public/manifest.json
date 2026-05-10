@@ -1,0 +1,12 @@
+{
+  "name": "Expense Tracker",
+  "short_name": "Expenses",
+  "start_url": "/Monthly-Tracker/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "https://fav.farm/💸", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://fav.farm/💸", "sizes": "512x512", "type": "image/png" }
+  ]
+}
